@@ -119,4 +119,7 @@ $ p3testscript 2>&1 | more
 or
 $ p3testscript > mytestresults 2>&1 
 
-Instruction contributions by Ben Brewster
+Instruction contributions by Ben Brewster, Instructor
+Interim Online Program Director
+Computer Science
+Oregon State University
