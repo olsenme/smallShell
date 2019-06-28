@@ -118,3 +118,5 @@ or
 $ p3testscript 2>&1 | more
 or
 $ p3testscript > mytestresults 2>&1 
+
+Instruction contributions by Ben Brewster
