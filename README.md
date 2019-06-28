@@ -1,5 +1,9 @@
 
 <h1>Overview</h1>
+<i>Instruction and test script contributed by Ben Brewster, Instructor
+Interim Online Program Director
+Computer Science
+Oregon State University</i>
 This is my shell in C. The shell runs command line instructions and returns the results similar to other shells, but without many of their fancier features.
 The name of the shell is called smallsh. It works like the bash shell, prompting for a command line and running commands, but it does not have many of the special features of the bash shell.
 The shell allows for the redirection of standard input and standard output and it supports both foreground and background processes (controllable by the command line and by receiving signals).
@@ -119,7 +123,4 @@ $ p3testscript 2>&1 | more
 or
 $ p3testscript > mytestresults 2>&1 
 
-Instruction contributions by Ben Brewster, Instructor
-Interim Online Program Director
-Computer Science
-Oregon State University
+
